@@ -1,11 +1,11 @@
 # 🌦️ Full-Stack Weather App
 
-# *COMPANY*: CODTECH IT SOLUTIONS
-# *NAME*: DHANANJAY D. RATHOD
-# *INTERN ID*: CT08SBP
-# *DOMAIN*: FULL STACK WEB DEVELOPMENT
-# *DURATION*: 4 WEEKS
-# *MENTOR*: NEELA SANTOSH
+### *COMPANY*: CODTECH IT SOLUTIONS
+### *NAME*: DHANANJAY D. RATHOD
+### *INTERN ID*: CT08SBP
+### *DOMAIN*: FULL STACK WEB DEVELOPMENT
+### *DURATION*: 4 WEEKS
+### *MENTOR*: NEELA SANTOSH
 
 A weather application that allows users to search for weather updates by city. Built with **React (Frontend) and Spring Boot (Backend)**.
 
