@@ -34,6 +34,31 @@ A weather application that allows users to search for weather updates by city. B
 
 ## 📂 Project Structure
 
-```
-📦 weather-app ┣ 📂 frontend # React Frontend ┃ ┣ 📂 public # Public assets (icon) ┃ ┣ 📂 src # Source code ┃ ┃ ┣ 📂 components # Reusable UI components ┃ ┃ ┣ 📂 context # Context API for state management ┃ ┃ ┣ 📂 hooks # Custom hooks ┃ ┃ ┣ 📂 pages # Page components ┃ ┃ ┣ 📂 assets # Images, icons, styles ┃ ┃ ┣ 📜 App.js # Main App component ┃ ┃ ┣ 📜 index.js # Entry point ┃ ┃ ┣ 📜 index.css # Global styles ┃ ┣ 📜 package.json # Dependencies & scripts ┃ ┣ 📜 tailwind.config.js # Tailwind configuration ┃ ┣ 📜 postcss.config.cjs # PostCSS configuration ┣ 📂 backend # Spring Boot Backend ┃ ┣ 📂 src/main/java/com/weatherapp # Java Source Files ┃ ┃ ┣ 📂 controller # Handles API requests ┃ ┃ ┣ 📂 service # Business logic ┃ ┃ ┣ 📜 WeatherApplication.java # Main entry point ┃ ┣ 📂 src/main/resources # Config files ┃ ┃ ┣ 📜 application.properties # Spring Boot properties ┃ ┣ 📜 pom.xml # Maven dependencies ┣ 📜 .gitignore # Git ignore file
+```bash
+weather-app
+├── frontend # React Frontend
+│ ├── public # Public assets (icon)
+│ ├── src # Source code
+│ │ ├── components # Reusable UI components
+│ │ ├── context # Context API for state management
+│ │ ├── hooks # Custom hooks
+│ │ ├── pages # Page components
+│ │ ├── assets # Images, icons, styles
+│ │ ├── App.js # Main App component
+│ │ ├── index.js # Entry point
+│ │ ├── index.css # Global styles
+│ ├── package.json # Dependencies & scripts
+│ ├── tailwind.config.js # Tailwind configuration
+│ ├── postcss.config.cjs # PostCSS configuration
+│
+├── backend # Spring Boot Backend
+│ ├── src/main/java/com/weatherapp # Java Source Files
+│ │ ├── controller # Handles API requests
+│ │ ├── service # Business logic
+│ │ ├── WeatherApplication.java # Main entry point
+│ ├── src/main/resources # Config files
+│ │ ├── application.properties # Spring Boot properties
+│ ├── pom.xml # Maven dependencies
+│
+├── .gitignore # Git ignore file
 ```
