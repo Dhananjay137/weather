@@ -123,10 +123,12 @@ The frontend runs on [**http://localhost:3000/**](http://localhost:3000/) and th
 ### 🌍 Home Page
 
 Displays a search bar where users can enter a city name and view weather details.
+![Image](https://github.com/user-attachments/assets/85953541-0ea0-4260-8be5-6960465b1627)
 
 ### 🌦️ Weather Details Page
 
 Shows real-time weather updates, including temperature, humidity, wind speed, and conditions.
+![Image](https://github.com/user-attachments/assets/e4d2ca17-b5b7-4b61-88c1-49483f720d7e)
 
 ### 📱 Responsive Design
 
